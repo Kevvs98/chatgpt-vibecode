@@ -57,7 +57,11 @@ Reglas:
   const response = await openai.responses.create({
     model: process.env.OPENAI_TEXT_MODEL || 'gpt-4.1-mini',
     input: prompt,
-    response_format: { type: 'json_object' }
+    text: {
+      format: {
+        type: 'json_object'
+      }
+    }
   });
 
   const raw = response.output_text;
