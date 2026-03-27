@@ -1,0 +1,75 @@
+{
+  "id": "ngx3jZADqH",
+  "topic": "EL MARGEN NO SIEMPRE SE PIERDE EN LA VENTA",
+  "audience": "Dueños de negocios de venta de consumibles de impresion o revendedores de impresoras",
+  "tone": "Claro, cercano y práctico",
+  "slideCount": 8,
+  "status": "rendered",
+  "createdAt": "2026-03-27T19:53:45.453Z",
+  "slides": [
+    {
+      "index": 1,
+      "title": "¿Crees que el margen solo se pierde en la venta?",
+      "body": "Descubre cómo proteger y aumentar tus ganancias.",
+      "visualIntent": "Imagen de un dueño de negocio preocupado y otro sonriente, con gráficos de crecimiento en el fondo.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-1-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-1-final.png"
+    },
+    {
+      "index": 2,
+      "title": "No todo es solo vender caro o barato",
+      "body": "El margen depende de varios factores clave en tu negocio.",
+      "visualIntent": "Ilustración de una balanza con dinero de un lado y productos del otro.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-2-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-2-final.png"
+    },
+    {
+      "index": 3,
+      "title": "Controla tus costos operativos",
+      "body": "Reducir gastos aumenta tu margen sin tocar precios.",
+      "visualIntent": "Foto de una mano ajustando un dial de costos o presupuesto.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-3-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-3-final.png"
+    },
+    {
+      "index": 4,
+      "title": "Aprovecha la venta cruzada",
+      "body": "Ofrece consumibles junto con impresoras para sumar más ventas por cliente.",
+      "visualIntent": "Cliente feliz comprando una impresora y varios consumibles en caja.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-4-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-4-final.png"
+    },
+    {
+      "index": 5,
+      "title": "Gestiona bien tu inventario",
+      "body": "Evita excesos y quiebres para mantener margen estable.",
+      "visualIntent": "Estantes organizados con productos y etiquetas visibles.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-5-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-5-final.png"
+    },
+    {
+      "index": 6,
+      "title": "Brinda un excelente servicio postventa",
+      "body": "Clientes satisfechos vuelven y recomiendan, aumentando margen a largo plazo.",
+      "visualIntent": "Empleado ayudando a un cliente con una sonrisa y equipo de impresión de fondo.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-6-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-6-final.png"
+    },
+    {
+      "index": 7,
+      "title": "Optimiza tus canales de venta",
+      "body": "Online y presencial juntos mejoran tus ingresos y margen.",
+      "visualIntent": "Pantalla de computadora con tienda online y una tienda física detrás.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-7-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-7-final.png"
+    },
+    {
+      "index": 8,
+      "title": "¿Listo para mejorar tu margen sin perder ventas?",
+      "body": "Sigue estos consejos y dale a tu negocio el impulso que necesita.",
+      "visualIntent": "Dueño de negocio motivado señalando hacia adelante con gráficos de crecimiento a su lado.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-8-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\ngx3jZADqH-slide-8-final.png"
+    }
+  ]
+}
