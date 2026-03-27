@@ -1,0 +1,75 @@
+{
+  "id": "dDwDafOw5U",
+  "topic": "EL MARGEN NO SIEMPRE SE PIERDE EN LA VENTA",
+  "audience": "Dueños de negocios de venta de consumibles de impresion o revendedores de impresoras",
+  "tone": "Claro, cercano y práctico",
+  "slideCount": 8,
+  "status": "outline_ready",
+  "createdAt": "2026-03-27T20:09:36.503Z",
+  "slides": [
+    {
+      "index": 1,
+      "title": "¿Crees que siempre pierdes margen al vender consumibles?",
+      "body": "Hay formas estratégicas para evitarlo y hasta aumentar tus ganancias.",
+      "visualIntent": "Una balanza donde un lado tiene dinero y el otro consumibles, mostrando equilibrio.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-1-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-1-final.png"
+    },
+    {
+      "index": 2,
+      "title": "El margen no solo está en el precio de venta",
+      "body": "También se gana optimizando costos y mejorando la experiencia del cliente.",
+      "visualIntent": "Un gráfico sencillo con dos barras: una de costos y otra de satisfacción del cliente.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-2-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-2-final.png"
+    },
+    {
+      "index": 3,
+      "title": "Ofrece valor agregado, no solo productos",
+      "body": "Servicio rápido y asesoría personalizada hacen que el cliente pague más con gusto.",
+      "visualIntent": "Un vendedor sonriente ayudando a un cliente con impresoras y consumibles.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-3-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-3-final.png"
+    },
+    {
+      "index": 4,
+      "title": "Compra inteligente para maximizar tu margen",
+      "body": "Negocia con proveedores y busca descuentos por volumen o fidelidad.",
+      "visualIntent": "Manos estrechándose sobre una mesa con documentos y muestras de consumibles.",
+      "imagePath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-4-base.png",
+      "finalPath": "C:\\Users\\Marketing\\Documents\\GitHub\\chatgpt-vibecode\\data\\dDwDafOw5U-slide-4-final.png"
+    },
+    {
+      "index": 5,
+      "title": "Diversifica tu oferta para captar más clientes",
+      "body": "Incluye diferentes marcas y productos complementarios que aporten valor.",
+      "visualIntent": "Estantería organizada con varios tipos de consumibles y accesorios de impresión.",
+      "imagePath": null,
+      "finalPath": null
+    },
+    {
+      "index": 6,
+      "title": "No subestimes el poder de la fidelización",
+      "body": "Clientes frecuentes significan ventas recurrentes y menor costo de adquisición.",
+      "visualIntent": "Un cliente feliz recibiendo un descuento o regalo en la tienda.",
+      "imagePath": null,
+      "finalPath": null
+    },
+    {
+      "index": 7,
+      "title": "Utiliza promociones que impulsen ventas estratégicas",
+      "body": "Ofrece combos o descuentos temporales que aumenten el ticket promedio.",
+      "visualIntent": "Un cartel colorido con imágenes de combos de impresora y consumibles, sin texto.",
+      "imagePath": null,
+      "finalPath": null
+    },
+    {
+      "index": 8,
+      "title": "¿Quieres mejorar tu margen ya?",
+      "body": "¡Contáctanos y recibe asesoría práctica para hacer crecer tu negocio!",
+      "visualIntent": "Un botón de contacto estilo moderno con íconos de teléfono y mensajes, ambiente profesional.",
+      "imagePath": null,
+      "finalPath": null
+    }
+  ]
+}

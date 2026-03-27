@@ -1,0 +1,20 @@
+{
+  "name": "carousel-openai-mvp",
+  "version": "1.0.0",
+  "description": "MVP para generar carruseles de Instagram con OpenAI",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7",
+    "openai": "^4.67.1",
+    "sharp": "^0.33.5"
+  }
+}

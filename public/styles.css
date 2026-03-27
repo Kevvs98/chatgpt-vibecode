@@ -1,0 +1,105 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, system-ui, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f3f4f8;
+  color: #0f172a;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 2rem auto;
+  padding: 0 1rem 3rem;
+}
+
+h1 {
+  margin-bottom: 0.3rem;
+}
+
+.hint {
+  color: #475467;
+  margin-top: 0;
+}
+
+.card {
+  background: white;
+  border-radius: 14px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+}
+
+form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.8rem;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.95rem;
+}
+
+input,
+button,
+a {
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  padding: 0.65rem 0.8rem;
+  font-size: 0.95rem;
+}
+
+button,
+a {
+  cursor: pointer;
+  background: #111827;
+  color: white;
+  text-decoration: none;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+}
+
+#slides-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.8rem;
+}
+
+.slide {
+  border: 1px solid #d0d5dd;
+  border-radius: 12px;
+  padding: 0.7rem;
+  display: grid;
+  gap: 0.5rem;
+  background: #f8fafc;
+}
+
+.slide img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.slide small {
+  color: #475467;
+}
+
+pre {
+  white-space: pre-wrap;
+  background: #0b1220;
+  color: #f1f5f9;
+  border-radius: 12px;
+  padding: 1rem;
+  min-height: 72px;
+}

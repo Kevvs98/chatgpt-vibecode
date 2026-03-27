@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Carruseles (Instagram)</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Generador de Carruseles con OpenAI</h1>
+      <p class="hint">Objetivo: Instagram (1080x1350), idioma: español, storage: local.</p>
+
+      <section class="card">
+        <h2>1) Crear proyecto</h2>
+        <form id="project-form">
+          <label>Tema <input name="topic" placeholder="Ej: Cómo vender por WhatsApp" required /></label>
+          <label>Audiencia <input name="audience" placeholder="Ej: Dueños de pequeños negocios" required /></label>
+          <label>Tono <input name="tone" value="Claro, cercano y práctico" required /></label>
+          <label>Número de slides <input name="slideCount" type="number" value="8" min="4" max="12" /></label>
+          <button type="submit">Crear proyecto</button>
+        </form>
+      </section>
+
+      <section class="card" id="actions" hidden>
+        <h2>2) Generar y renderizar</h2>
+        <div class="row">
+          <button id="outline-btn">Generar outline</button>
+          <button id="render-btn">Renderizar todo</button>
+          <a id="export-link" href="#" target="_blank" rel="noreferrer">Descargar ZIP</a>
+        </div>
+      </section>
+
+      <section class="card" id="slides" hidden>
+        <h2>3) Slides</h2>
+        <div id="slides-grid"></div>
+      </section>
+
+      <pre id="log"></pre>
+    </main>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
